@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ramyasree-Kundeti
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning DataAnalytics at University of Hildesheim 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning DataAnalytics at University of Hildesheim
 
 <!---
 Ramyasree-Kundeti/Ramyasree-Kundeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
